@@ -4,3 +4,4 @@ Run locally:
 2. npm run dev
 The project uses Vite + React + TypeScript + TailwindCSS.
 Replace src/assets/profile.png with your real photo if needed.
+# portfolio
